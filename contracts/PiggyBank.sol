@@ -1,4 +1,7 @@
 //SPDX-License-Identifier: MIT
+
+// This code isn't something which is very useful IRL but i made it to practice Solidity :)
+
 pragma solidity ^0.8.10;
 
 contract PiggyBank {
